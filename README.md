@@ -1,9 +1,8 @@
 
 # Flappy Bird
 
-<div align="center">
-  <img alt="Demo" src="Gamplay.png" />
-</div>
+![Demo](Gameplay.png)
+
 
 A simple Flappy Bird-style game built in Python using Pygame.
 
